@@ -1,3 +1,21 @@
+淘宝
+天猫
+手淘
+淘宝闪购
+美团
+支付宝
+阿里巴巴
+电商
+中小商家
+消费者
+淘宝服饰
+淘宝女装
+灵光
+Qwen
+千问
+AQ
+大促
+
 DeepSeek
 梁文锋
 
@@ -6,19 +24,13 @@ DJI
 
 宇树
 王兴兴
-
-智元
 灵犀
 稚晖君
-彭志辉
+机器人
+具身智能
 
 黑神话
 冯骥
-
-三体
-流浪地球
-刘慈欣
-郭帆
 
 拼多多
 TEMU
@@ -36,49 +48,15 @@ bytedance
 抖音电商
 TIKTOK
 
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-AMD
-
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
 iphone
 ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-大模型
-算力
-数据中心
-
 马斯克
 特斯拉
 自动驾驶
 小鹏
-
-机器人
-具身智能
 
 中国
 美国
@@ -93,26 +71,6 @@ ai
 科技
 新质生产力
 
-淘宝
-天猫
-手淘
-淘宝闪购
-美团
-支付宝
-阿里巴巴
-双11
-双十一
-灵光
-Qwen
-千问
-AQ
-AI健康
-AI医疗
-电商
-中小商家
-消费者
-淘宝服饰
-淘宝女装
 
 美国政府
 特朗普
@@ -137,6 +95,28 @@ PPI
 A股
 纳斯达克
 QQQ
+
+ai
+!gai
+人工智能
+大模型
+算力
+数据中心
+谷歌
+google
+gemini
+deepmind
+英伟达
+NVIDIA
+黄仁勋
+AMD
+chatgpt
+openai
+sora
+claude
+Anthropic
+微软
+Microsoft
 
 公益
 ESG
